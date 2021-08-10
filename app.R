@@ -192,6 +192,7 @@ server <- function(input, output, session){
   })
   ##################################################################################
   # Barra semana
+  # 
   
   
   output$barra_semana <- renderPlot({
